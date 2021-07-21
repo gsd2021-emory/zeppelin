@@ -58,7 +58,8 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "Georgia Statistics Day <typeout> 2021"
 eventDate: "October, 2021"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
+typeoutTextValues: '"" 
+##,"Season", "Ukraine", "Germany", "USA"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
