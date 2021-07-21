@@ -10,11 +10,11 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Season 2014"
+title: "GDG DevFest Season 2014" # TODO: need to change the contents, left for @Xin (delete this comment after modifications)
 email: "devfest@gdg.org.ua"
 description: "GDG DevFest is a set of events all around the world"
-baseurl: "/zeppelin"
-url: "http://gdg-x.github.io"
+baseurl: ""  ## same as url as our home page
+url: "https://gsd2021-emory.github.io/"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
@@ -41,20 +41,24 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
 # Navigation
-navigationLinks:
+navigationLinks:  ## just edit according to https://sites.gatech.edu/gsd2019/ as template
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
+ - {permalink: "/speakers", text: "Speakers"}
+ - {permalink: "/program/", text: "Program"}
+ - {permalink: "/abstracts/", text: "Abstracts"}
+ - {permalink: "/poster/", text: "Poster Sessions"}
+ - {permalink: "/hotels/", text: "Hotels"}
+ - {permalink: "/parking/", text: "Parking"}
+ - {permalink: "/sponsors/", text: "Sponsors"}
 bottomNavigationLinks:
  - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
  - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 
-# Hero Block
+
+## TODO: these are the blocks which can be editted accordingly
+
+# Hero Block - the background with become a speaker / buy tickets
 heroImage: "hero.jpg"
 heroTitle: "GDG DevFest <typeout> 2014"
 eventDate: "September - November, 2014"
@@ -64,7 +68,7 @@ heroButtons:
  - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
-# About Block
+# About Block - the About GDG DevFest blocks
 aboutTitle: "About GDG DevFest"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
