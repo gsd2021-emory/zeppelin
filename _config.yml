@@ -13,12 +13,12 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "Georgia Statistics Day 2021" # TODO: need to change the contents, left for @Xin (delete this comment after modifications)
 email: "devfest@gdg.org.ua"
 description: "GDG DevFest is a set of events all around the world"
-baseurl: "/zeppelin"  ## test if this works
+baseurl: ""  ## test if this works /zeppelin
 url: "http://gsd2021-emory.github.io"  ## substiture https as http
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+googleAnalyticsTrackingId: "" ##UA-43643469-5
+googleAnalyticsSiteUrl: "gsd2021-emory.github.io"
+siteVerification: "" ##b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no
 
 # Organizer Info
 organizerName: "GDG Lviv"
@@ -40,20 +40,34 @@ c4pUrl: "http://bit.ly/dfua-c4p"
 c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
+# # Navigation
+# navigationLinks:  ## just edit according to https://sites.gatech.edu/gsd2019/ as template
+#  - {permalink: "/", text: "Home"}
+#  - {permalink: "/speakers", text: "Speakers"}
+#  - {permalink: "/program/", text: "Program"}
+#  - {permalink: "/abstracts/", text: "Abstracts"}
+#  - {permalink: "/poster/", text: "Poster Sessions"}
+#  - {permalink: "/hotels/", text: "Hotels"}
+#  - {permalink: "/parking/", text: "Parking"}
+#  - {permalink: "/sponsors/", text: "Sponsors"}
+# bottomNavigationLinks:
+#  - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+# rightNavigationButtons:
+#  - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+
 # Navigation
-navigationLinks:  ## just edit according to https://sites.gatech.edu/gsd2019/ as template
+navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/speakers", text: "Speakers"}
- - {permalink: "/program/", text: "Program"}
- - {permalink: "/abstracts/", text: "Abstracts"}
- - {permalink: "/poster/", text: "Poster Sessions"}
- - {permalink: "/hotels/", text: "Hotels"}
- - {permalink: "/parking/", text: "Parking"}
- - {permalink: "/sponsors/", text: "Sponsors"}
+ #- {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/team/", text: "Team"}
+ #- {permalink: "/logistics/", text: "Logistics"}
+ #- {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ #- {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ #- {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 
 ## TODO: these are the blocks which can be editted accordingly
