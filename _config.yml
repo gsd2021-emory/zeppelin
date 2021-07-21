@@ -47,9 +47,9 @@ navigationLinks:  ## just edit according to https://sites.gatech.edu/gsd2019/ as
  - {permalink: "/program/", text: "Program"}
  - {permalink: "/abstracts/", text: "Abstracts"}
  - {permalink: "/poster/", text: "Poster Sessions"}
- - {permalink: "/hotels/", text: "Hotels"}
- - {permalink: "/parking/", text: "Parking"}
- - {permalink: "/sponsors/", text: "Sponsors"}
+# - {permalink: "/hotels/", text: "Hotels"}
+ #- {permalink: "/parking/", text: "Parking"}
+ #- {permalink: "/sponsors/", text: "Sponsors"}
 bottomNavigationLinks:
  - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
