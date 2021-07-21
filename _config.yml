@@ -40,34 +40,34 @@ c4pUrl: "http://bit.ly/dfua-c4p"
 c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
+# Navigation
+navigationLinks:  ## just edit according to https://sites.gatech.edu/gsd2019/ as template
+ - {permalink: "/", text: "Home"}
+ - {permalink: "/speakers", text: "Speakers"}
+ - {permalink: "/program/", text: "Program"}
+ - {permalink: "/abstracts/", text: "Abstracts"}
+ - {permalink: "/poster/", text: "Poster Sessions"}
+ - {permalink: "/hotels/", text: "Hotels"}
+ - {permalink: "/parking/", text: "Parking"}
+ - {permalink: "/sponsors/", text: "Sponsors"}
+bottomNavigationLinks:
+ - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+rightNavigationButtons:
+ - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+
 # # Navigation
-# navigationLinks:  ## just edit according to https://sites.gatech.edu/gsd2019/ as template
+# navigationLinks:
 #  - {permalink: "/", text: "Home"}
-#  - {permalink: "/speakers", text: "Speakers"}
-#  - {permalink: "/program/", text: "Program"}
-#  - {permalink: "/abstracts/", text: "Abstracts"}
-#  - {permalink: "/poster/", text: "Poster Sessions"}
-#  - {permalink: "/hotels/", text: "Hotels"}
-#  - {permalink: "/parking/", text: "Parking"}
-#  - {permalink: "/sponsors/", text: "Sponsors"}
+#  - {permalink: "/blog/", text: "Blog"}
+#  - {permalink: "/schedule/", text: "Schedule"}
+#  - {permalink: "/speakers/", text: "Speakers"}
+#  - {permalink: "/team/", text: "Team"}
+#  - {permalink: "/logistics/", text: "Logistics"}
+#  - {permalink: "/hackathon/", text: "Hackathon"}
 # bottomNavigationLinks:
 #  - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 # rightNavigationButtons:
 #  - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
-
-# Navigation
-navigationLinks:
- - {permalink: "/", text: "Home"}
- #- {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
- #- {permalink: "/logistics/", text: "Logistics"}
- #- {permalink: "/hackathon/", text: "Hackathon"}
-bottomNavigationLinks:
- #- {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
-rightNavigationButtons:
- #- {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 
 ## TODO: these are the blocks which can be editted accordingly
