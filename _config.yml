@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "GDG DevFest Season 2014" # TODO: need to change the contents, left for @Xin (delete this comment after modifications)
 email: "devfest@gdg.org.ua"
 description: "GDG DevFest is a set of events all around the world"
-baseurl: "/"  ## test if this works
+baseurl: "/zeppelin/"  ## test if this works
 url: "http://gsd2021-emory.github.io"  ## substiture https as http
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
