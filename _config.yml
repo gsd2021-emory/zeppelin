@@ -14,7 +14,7 @@ title: "GDG DevFest Season 2014" # TODO: need to change the contents, left for @
 email: "devfest@gdg.org.ua"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: "/"  ## test if this works
-url: "https://gsd2021-emory.github.io"
+url: "http://gsd2021-emory.github.io"  ## substiture https as http
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
