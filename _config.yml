@@ -10,9 +10,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GSD 2021"
-email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
+title: "Georgia Statistics Day 2021"
+email: "emorygsd2021@gmail.com"
+description: "Georgia Statistics Day held by Emory"
 baseurl: "" ##/zeppelin
 url: "https://gsd2021-emory.github.io"
 permalink: "/blog/:title"
@@ -21,12 +21,12 @@ googleAnalyticsSiteUrl: "gdg-x.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
-organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerName: "Department of Biostatistics and Bioinformatics at Emory"
+organizerAlternateName: ""
+organizerDescription: ""
+organizerEmail: ""
+organizerLogo: ""
+organizerLink: ""
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
