@@ -47,7 +47,7 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Program"}
  - {permalink: "/logistics/", text: "Abstracts"}
  - {permalink: "/blog/", text: "Poster Sessions"}
- - {permalink: "/team/", text: "Team"}
+ #- {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Hotels"}
  - {permalink: "/logistics/", text: "Parking"} 
  - {permalink: "/hackathon/", text: "Sponsors"}
@@ -68,7 +68,7 @@ heroButtons:
  - {permalink: "/#tickets", text: "REGISTER NOW"}
 
 # About Block
-aboutTitle: "About Georgia Statistics Day 2021"
+aboutTitle: "<b> About Georgia Statistics Day 2021"
 aboutBlock:
 #  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
 #  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
@@ -187,16 +187,16 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "https://www.sph.emory.edu/departments/bios/index.html", text: "BIOS Department at Emory"}
+  # - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:emorygsd2021@gmail.com", text: "emorygsd2021@gmail.com"}
  -
   title: "FAQ"
-  links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+#   links:
+#    - {permalink: "/cod/", text: "Code of Conduct"}
 
 # # Blog
 # blogTitle: "Latest news"
