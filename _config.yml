@@ -57,7 +57,8 @@ navigationLinks:
 #  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
-heroImage: "hero.jpg"
+#heroImage: "hero.jpg"
+heroImage: "images.jpeg"
 heroTitle: "<b> Georgia Statistics Day <typeout> 2021"
 eventDate: "<b> October, 2021"
 typeoutTextValues: '"" 
