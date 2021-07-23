@@ -180,24 +180,24 @@ We appreciate your attendance and look forward to a successful and productive co
 #   soldOut: true
 #   soldOutText: "Sold Out"
 
-# Footer
-socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
-footerBlocks:
- -
-  title: "Links"
-  links:
-   - {link: "https://www.sph.emory.edu/departments/bios/index.html", text: "BIOS Department at Emory"}
-  # - {link: "https://developers.google.com", text: "Google Developers"}
- -
-  title: "Contacts"
-  links:
-   - {link: "mailto:emorygsd2021@gmail.com", text: "emorygsd2021@gmail.com"}
- -
-  title: "FAQ"
+# # Footer
+# socialLinks:
+#  - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
+#  - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
+#  - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+#  - {permalink: "/feed.xml", icon: "rss"}
+# footerBlocks:
+#  -
+#   title: "Links"
+#   links:
+#    - {link: "https://www.sph.emory.edu/departments/bios/index.html", text: "BIOS Department at Emory"}
+#   # - {link: "https://developers.google.com", text: "Google Developers"}
+#  -
+#   title: "Contacts"
+#   links:
+#    - {link: "mailto:emorygsd2021@gmail.com", text: "emorygsd2021@gmail.com"}
+#  -
+#   title: "FAQ"
 #   links:
 #    - {permalink: "/cod/", text: "Code of Conduct"}
 
