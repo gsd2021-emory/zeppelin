@@ -48,7 +48,7 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Abstracts"}
  - {permalink: "/blog/", text: "Poster Sessions"}
  #- {permalink: "/team/", text: "Team"}
- - {permalink: "/hotel/", text: "Hotels"}
+ #- {permalink: "/hotel/", text: "Hotels"}
  - {permalink: "/logistics/", text: "Parking"} 
  - {permalink: "/hackathon/", text: "Sponsors"}
 # bottomNavigationLinks:
