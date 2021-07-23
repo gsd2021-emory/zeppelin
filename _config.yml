@@ -74,7 +74,9 @@ aboutBlock:
 #  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
 #  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
 #  - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
- - {title: "", text: "The Department of Biostatistics and Bioinformatics at Emory welcomes you to Emory Univeristy for Georgia Statistics Day 2021." }
+ - {title: "", text: "The Department of Biostatistics and Bioinformatics at Emory welcomes you to Emory Univeristy for Georgia Statistics Day 2021. 
+ The purpose of this event is to promote interdisciplinary research within the flagship institutions of the state of Georgia. Our conference will enable junior researchers in the Southeast region of the United States, including graduate students, to present their work, to see state of the art developments in research on statistics and related scientific areas, and to interact with some of the key players in the area. Georgia Statistics Day puts emphasis on mentoring of junior researchers and on interaction between senior and junior researchers.
+We appreciate your attendance and look forward to a successful and productive conference!" }
 
 
 # # Statistic Block
