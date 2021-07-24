@@ -1,5 +1,5 @@
 $nav-color: #000;
-$nav-color-hover: #fff;
+$nav-color-hover: #cfcfcf;
 $nav-scroll-color: rgba(0, 0, 0, .5);
 $nav-scroll-color-hover: rgba(0, 0, 0, .8);
 
@@ -19,7 +19,7 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
         }
     }
     .overlay {
-        opacity: 0;
+        opacity: 1; /*0; change to 1*/
         transition: $base-transition;
     }
 }
@@ -67,7 +67,7 @@ nav {
         width: 256px;
         height: 100%;
         transition: $long-transition;
-        background: #fff;
+        background: #072973;  /* change background color */
         transform: translateX(-100%);
     }
     .st-menu-open & {
@@ -102,7 +102,7 @@ nav {
             display: block;
         }
         a {
-            font-size: $base-font-size;
+            font-size: 18px; /* $base-font-size;  change to 18 px */
             font-weight: $regular;
             transition: $base-transition;
             text-transform: uppercase;
