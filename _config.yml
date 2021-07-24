@@ -58,9 +58,9 @@ navigationLinks:
 
 # Hero Block
 #heroImage: "hero.jpg"
-heroImage: "frontpage.jpg"
+heroImage: "frontpage2.jpeg"
 heroTitle: "<b> Georgia Statistics Day <typeout> 2021"
-eventDate: "<b> October, 2021"
+eventDate: "<b> October 11th, 2021"
 typeoutTextValues: '"" 
 ##,"Season", "Ukraine", "Germany", "USA"'
 typeoutFallback: "Season"
@@ -90,8 +90,8 @@ We appreciate your attendance and look forward to a successful and productive co
 # # Latest News Block
 # latestNewsTitle: "Latest news"
 
-# # Rockstar Speakers Block
-# rockstarSpeakersImage: "rockstar-speakers.jpg"
+# Rockstar Speakers Block
+rockstarSpeakersImage: "rockstar-speakers.jpg"
 # rockstarSpeakersCount: 4
 # rockstarSpeakersTitle: "Rockstar speakers"
 # rockstarSpeakersButtonText: "See all speakers"
