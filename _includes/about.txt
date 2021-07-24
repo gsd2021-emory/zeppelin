@@ -1,0 +1,10 @@
+The Department of Biostatistics and Bioinformatics at
+the Rollins School of Public Health, Emory University
+welcomes you to the 2021 Georgia Statistics Day (GSD). 
+GSD is a one-day free local research event designed to promote interdisciplinary research
+among statistical researchers and data scientists within Georgia.
+Attendees of GSD generally include faculty, postdocs, and students from academic institutions,
+researchers from Centers for Disease Control and Prevention (CDC),
+and practitioners from industry. The program of GSD covers a diverse range of
+topics related to statistical methods, applications, and practice.
+
