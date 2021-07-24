@@ -69,7 +69,7 @@ heroButtons:
  - {permalink: "/#tickets", text: "REGISTER NOW"}
 
 # About Block
-# aboutTitle: "<b> About Georgia Statistics Day 2021"
+aboutTitle: "<b> About Georgia Statistics Day 2021"
 aboutBlock:
 #  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
 #  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
