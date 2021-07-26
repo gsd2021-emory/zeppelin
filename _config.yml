@@ -92,9 +92,9 @@ We appreciate your attendance and look forward to a successful and productive co
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-# rockstarSpeakersCount: 4
-# rockstarSpeakersTitle: "Rockstar speakers"
-# rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersCount: 1
+rockstarSpeakersTitle: "Keynote speakers"
+rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
