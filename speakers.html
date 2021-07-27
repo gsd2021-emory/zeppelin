@@ -7,9 +7,15 @@ modal: all
 
 {% include top-section.html %}
 
+{% include speaker-list_2.html %}
+
+{% comment %}
+
 {% if site.showSessions %}
     {% include speakers-list.html %}
 {% else %}
     {% include speakers-list-2.html %}
 {% endif %}
+
+{% endcomment %}
 
